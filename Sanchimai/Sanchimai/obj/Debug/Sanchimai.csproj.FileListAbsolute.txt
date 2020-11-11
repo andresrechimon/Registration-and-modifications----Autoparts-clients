@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\Sanchimai\Sanchimai\bin\Debug\Sanchimai.exe.config
+C:\Users\Usuario\source\repos\Sanchimai\Sanchimai\bin\Debug\Sanchimai.exe
+C:\Users\Usuario\source\repos\Sanchimai\Sanchimai\bin\Debug\Sanchimai.pdb
+C:\Users\Usuario\source\repos\Sanchimai\Sanchimai\obj\Debug\Sanchimai.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Sanchimai\Sanchimai\obj\Debug\Sanchimai.Form1.resources
+C:\Users\Usuario\source\repos\Sanchimai\Sanchimai\obj\Debug\Sanchimai.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Sanchimai\Sanchimai\obj\Debug\Sanchimai.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Sanchimai\Sanchimai\obj\Debug\Sanchimai.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Sanchimai\Sanchimai\obj\Debug\Sanchimai.exe
+C:\Users\Usuario\source\repos\Sanchimai\Sanchimai\obj\Debug\Sanchimai.pdb
